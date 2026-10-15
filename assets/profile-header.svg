@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Jeevan Chimbli Suresh — Software engineering and applied AI</title>
+  <desc id="desc">A midnight blue banner with violet and cyan flowing lines. Building AI systems and the software around them.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1121"/><stop offset="1" stop-color="#17162f"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#a98bfa"/><stop offset="1" stop-color="#59d8ed"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#7871e0" stop-opacity=".20"/><stop offset="1" stop-color="#7871e0" stop-opacity="0"/></radialGradient>
+    <clipPath id="bounds"><rect width="1200" height="360" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#bounds)">
+    <rect width="1200" height="360" fill="url(#bg)"/>
+    <ellipse cx="1028" cy="180" rx="330" ry="330" fill="url(#halo)"/>
+    <path d="M776 360C806 286 786 256 834 222S946 186 984 128 1032 42 1146 0M842 360C854 282 888 265 920 220S966 156 1044 139 1146 138 1200 84M951 360C970 294 1068 263 1100 214S1146 138 1200 128" fill="none" stroke="url(#accent)" stroke-width="1.5" opacity=".24"/>
+    <path d="M805 360C828 306 846 286 890 248S966 244 1008 202 1020 114 1070 82 1156 62 1200 26" fill="none" stroke="url(#accent)" stroke-width="2.5" opacity=".8"/>
+    <circle cx="1008" cy="202" r="10" fill="#63d3e7" fill-opacity=".13"/>
+    <circle cx="1008" cy="202" r="4.5" fill="#72dfed"/>
+    <circle cx="890" cy="248" r="4" fill="#bba1ff"/>
+    <circle cx="1070" cy="82" r="4" fill="#76dfed"/>
+    <circle cx="920" cy="220" r="3" fill="#8d8cc7"/>
+    <circle cx="1100" cy="214" r="3" fill="#8d8cc7"/>
+    <path d="M1008 202L1100 214M890 248L920 220M1070 82L1044 139" stroke="#9d9ccf" stroke-opacity=".25"/>
+    <rect x="62" y="53" width="30" height="3" rx="1.5" fill="url(#accent)"/>
+    <text x="106" y="60" fill="#bab5d2" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" letter-spacing="2.2">SOFTWARE ENGINEERING / APPLIED AI</text>
+    <text x="60" y="139" fill="#f5f3ff" font-family="DejaVu Sans,Arial,sans-serif" font-size="57" font-weight="700" letter-spacing="-1.5">Jeevan</text>
+    <text x="60" y="205" fill="#f5f3ff" font-family="DejaVu Sans,Arial,sans-serif" font-size="57" font-weight="700" letter-spacing="-1.5">Chimbli Suresh</text>
+    <text x="63" y="255" fill="#bcbad0" font-family="DejaVu Sans,Arial,sans-serif" font-size="21">Building AI systems and the software around them.</text>
+    <rect x="63" y="291" width="259" height="30" rx="15" fill="#a98bfa" fill-opacity=".09" stroke="#a98bfa" stroke-opacity=".22"/>
+    <circle cx="80" cy="306" r="3.5" fill="#76dfed"/>
+    <text x="94" y="311" fill="#d4cbed" font-family="DejaVu Sans,Arial,sans-serif" font-size="13">VISION · LANGUAGE · SYSTEMS</text>
+    <text x="1138" y="320" text-anchor="end" fill="#aaa4c4" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" letter-spacing="1">JEEVANCS.IN</text>
+    <rect x="0" y="356" width="1200" height="4" fill="url(#accent)"/>
+  </g>
+</svg>
