@@ -61,11 +61,11 @@ This is ongoing experimental work. [More about my research →](https://jeevancs
 <a href="https://github.com/Jeevan750/Monosonic">Repository ↗</a>
 </td>
 <td width="50%" valign="top">
-<h3>JeevanCS</h3>
-<p><strong>Personal portfolio</strong></p>
-<p>My home for projects, research, and engineering experience. A responsive portfolio with a PHP API, MariaDB, and an admin workflow for enquiries.</p>
-<p><code>React</code> <code>PHP</code> <code>MariaDB</code> <code>Docker</code></p>
-<a href="https://jeevancs.in/">Live website ↗</a>
+<h3>Driving Risk Analyzer</h3>
+<p><strong>Motion data & driving behavior</strong></p>
+<p>A team-built Python application that analyzes sensor data using heuristic scoring and a KNN-style classifier. I contributed report export and testing improvements.</p>
+<p><code>Python</code> <code>Tkinter</code> <code>Time series</code></p>
+<a href="https://github.com/kayshaah/driving_risk_analyzer">Team repository ↗</a>
 </td>
 </tr>
 </table>
@@ -75,6 +75,7 @@ This is ongoing experimental work. [More about my research →](https://jeevancs
 
 | Project | Work |
 | :--- | :--- |
+| **[JeevanCS Portfolio](https://jeevancs.in/)** | Responsive React portfolio with a PHP API, MariaDB, and an admin workflow for enquiries. |
 | **Sign Language Detection** | Gesture recognition for accessible text or speech; model approach, application flow, and testing. |
 | **Named Entity Recognition** | Dataset creation and extraction logic for structured entities in unstructured text. |
 | **Anomaly Detection** | Autoencoder experiments and hyperparameter tuning for anomaly detection. |
